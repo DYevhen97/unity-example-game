@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu0.unity
+    guid: 3f3f19e9e30c2474c93622be8b48d8c4
+  - enabled: 1
+    path: Assets/Scenes/Game 1/Game1Menu.unity
+    guid: be853b290679f184dba67faec2183d88
+  - enabled: 1
+    path: Assets/Scenes/Game 2/Game2Intro.unity
+    guid: 25c10b94131dde14bb2a15032395eb17
+  - enabled: 1
+    path: Assets/Scenes/Game 1/Game1Level.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Game 2/Game2StageSelect.unity
+    guid: 0bdb3539d3f18ab408de46023dbf2f5b
+  - enabled: 1
+    path: Assets/Scenes/Game 2/Game2TutorailExplanation.unity
+    guid: c4bf9a2456d41ba438f687ba72d04416
+  - enabled: 1
+    path: Assets/Scenes/Game 2/Game2Tutorial.unity
+    guid: a89169355cb3f5644bb142694d426c06
+  - enabled: 1
+    path: Assets/Scenes/Game 2/Game2StageComplete.unity
+    guid: d4016a817859e75479ec15ba5c71b85f
+  - enabled: 1
+    path: Assets/Scenes/Game 2/Game2GameOver.unity
+    guid: a9078b295cf367f42967642f53699df3
+  - enabled: 1
+    path: Assets/Scenes/Game 2/Game2Stage1.unity
+    guid: 1d17501f7acc2f244999e1d9d8482984
+  - enabled: 1
+    path: Assets/Scenes/Game 2/Game2Stage2.unity
+    guid: bb0a6b161369c684bb7b10054be5eed3
+  m_configObjects: {}
